@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Gokulakannan S</h1>
+<h1 align="center">Hi 👋, I'm Thamizhvanan B</h1>
 
 <h3 align="center">
-Full Stack AI Developer | AI Engineer | Flutter Developer | Hardware Engineer
+Full Stack AI Developer | AI Engineer | Digital Marketer | 
 </h3>
 
 <p align="center">
   <a href="https://gokulakannan-portfolio.pages.dev/">
     <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-success?style=for-the-badge">
   </a>
-  <a href="https://github.com/gokulakannan69">
+  <a href="https://github.com/Thamizhvanan3103/">
     <img src="https://img.shields.io/github/followers/gokulakannan69?style=for-the-badge">
   </a>
 </p>
@@ -19,13 +19,13 @@ Full Stack AI Developer | AI Engineer | Flutter Developer | Hardware Engineer
 
 🎓 B.Tech Information Technology (2022 – 2026)
 
-🏫 Sri Ramanujar Engineering College, Chennai
+🏫 Arjun College of Technology, Coimbatore
 
 💡 Passionate about AI, Full Stack Development, and Intelligent Applications.
 
-🚀 Currently building AI-powered applications using LLMs, RAG, Flutter, React, and Node.js.
+🚀 Currently building AI-powered applications using LLMs, RAG, React, and Node.js.
 
-💻 Interested in AI Engineering, Agentic AI, Automation, and Modern Web Development.
+💻 Interested in AI Engineering, Agentic AI, Automation, Modern Web Development and Digital Marketing.
 
 🔍 Always exploring new AI tools and technologies.
 
@@ -38,8 +38,7 @@ Full Stack AI Developer | AI Engineer | Flutter Developer | Hardware Engineer
 - 📚 Retrieval-Augmented Generation (RAG)
 - ⚡ AI Coding Tools
 - 🌐 Full Stack Web Development
-- 📱 Flutter Mobile Development
-- ☁️ Cloud-Based AI Applications
+- 📱 Digital Marketing
 
 ---
 
@@ -64,7 +63,6 @@ Full Stack AI Developer | AI Engineer | Flutter Developer | Hardware Engineer
 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
 
 ---
 
@@ -118,13 +116,12 @@ Full Stack AI Developer | AI Engineer | Flutter Developer | Hardware Engineer
 - Google Sheets API
 - REST APIs
 - Windows
-- Linux
 
 ---
 
 # 💼 Experience
 
-## Full Stack AI Developer Intern
+## Full Stack Developer Intern
 
 - Building AI-powered applications
 - Developing intelligent workflows
@@ -136,7 +133,7 @@ Full Stack AI Developer | AI Engineer | Flutter Developer | Hardware Engineer
 
 ## Hardware Engineer | VIP Systems
 
-**Aug 2024 – Present**
+**Mar 2026 – Present**
 
 - Hardware Installation
 - System Troubleshooting
@@ -149,69 +146,20 @@ Full Stack AI Developer | AI Engineer | Flutter Developer | Hardware Engineer
 
 # 🚀 Featured Projects
 
-## 🤖 AI RAG Assistant
 
-- Document Search
-- LLM Integration
-- Semantic Search
-- Vector Database
+## 🌍 Travel Explorer React.js & Node.js Destination Search Responsive UI API Integration Traveler Support
 
----
+## 🍽️ Tami Restaurant Restaurant Management System Menu Management Dynamic Pricing Shopping Cart Billing System Order Tracking QR UPI Payment
 
-## 📱 Employee Attendance & Payroll System
+## 🛒 Shop Ease E-Commerce Platform Product Management State Management Form Validation API Integration Reusable UI Components Responsive Design
 
-- Flutter
-- GPS Verification
-- QR Attendance
-- Google Sheets Integration
-- Salary Automation
-
----
-
-## 📚 Library Management System
-
-- Full Stack Web Application
-- User Authentication
-- Book Management
-- Dashboard
-
----
-
-## 🛡 Women Safety System
-
-- Emergency SOS
-- Live Location
-- Nearby Police Station
-- Real-time Alerts
-
----
-
-## 🏥 Hospital Management System
-
-- Patient Management
-- Doctor Dashboard
-- Appointment Booking
-- Authentication
-
----
-
-## 💼 CRM Management System
-
-- Customer Management
-- Lead Tracking
-- Dashboard
-- Reports
-
----
 
 # 📚 Currently Learning
 
 - AI Engineering
 - Agentic AI
-- Spring Boot
 - Advanced React
 - Node.js
-- Flutter
 - System Design
 - Cloud Computing
 
@@ -219,9 +167,9 @@ Full Stack AI Developer | AI Engineer | Flutter Developer | Hardware Engineer
 
 # 🎓 Education
 
-### Sri Ramanujar Engineering College
+### Arjun College of Technology, Coimbatore
 
-**Bachelor of Technology (Information Technology)**
+**Bachelor of Engineering (Computer Science and Engineering)**
 
 2022 – 2026
 
@@ -229,35 +177,20 @@ CGPA: **8.01**
 
 ---
 
-# 📈 GitHub Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=gokulakannan69&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=gokulakannan69&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulakannan69&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=gokulakannan69&theme=tokyonight&margin-w=10&margin-h=10)
-
----
 
 # 🌍 Connect With Me
 
 📧 Email
 
-**gokulkannangk28@gmail.com**
+**thamizhmsd76@gmail.com**
 
 🌐 Portfolio
 
-https://gokulakannan-portfolio.pages.dev/
+https://thamizhfolio.netlify.app/
 
 💻 GitHub
 
-https://github.com/gokulakannan69
+https://github.com/Thamizhvanan3103/
 
 ---
 
